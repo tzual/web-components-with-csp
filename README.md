@@ -1,2 +1,1 @@
-# native-web-component-with-csp
-an example of a web component working with strict CSP
+An example of web components working with strict CSP
